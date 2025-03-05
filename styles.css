@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #1C39BB; /* Persian Blue */
+    color: #FFDAB9; /* Peach */
+}
+
+h1, h2 {
+    margin-top: 50px;
+    color: #FFDAB9; /* Peach */
+}
+
+.btn {
+    background: #FFDAB9; /* Peach */
+    color: #1C39BB; /* Persian Blue */
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: transform0.3s;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+}
+
